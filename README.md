@@ -28,7 +28,7 @@ Este projeto ajuda os usuários a manterem-se organizados e produtivos, fornecen
 
 ### Contribuindo:
 
-Se tiver alguma dúvida ou sugestão, não hesite em entrar em contato. Obrigado por utilizar nosso projeto!
+Se tiver alguma dúvida ou sugestão, não hesite em entrar em contato.
 
 Atenciosamente,
 Kim Gomes | kimalvesg@outlook.com
