@@ -2,7 +2,7 @@
 
 ### O que é este projeto?
 
-Este projeto consiste em um aplicativo de linha de comando desenvolvido em Python, projetado para ajudar os usuários a gerenciar suas tarefas de forma eficiente. Com uma interface simples e intuitiva, o Gerenciador de Tarefas oferece recursos essenciais para o planejamento e acompanhamento das atividades do dia a dia.
+Este projeto consiste em um aplicativo de linha de comando desenvolvido em Python, projetado para ajudar os usuários a gerenciar suas tarefas de forma eficiente. O Gerenciador de Tarefas oferece recursos essenciais para o planejamento e acompanhamento das atividades do dia a dia.
 
 ### Para que serve?
 
